@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "tags": [
+    {"id": "Alpha"},
+    {"id": "Beta"},
+    {"id": "Gamma"}
+  ]
 }
